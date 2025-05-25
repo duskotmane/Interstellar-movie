@@ -22,7 +22,6 @@ A simple, responsive website dedicated to the epic sci-fi film **Interstellar**,
 - HTML5
 - CSS3 (Flexbox & Responsive Design)
 - JavaScript (Vanilla)
-- [Unsplash](https://unsplash.com) for free images
 
 ## 📄 License
 
