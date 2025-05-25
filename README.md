@@ -1,22 +1,29 @@
-# Series & Movie-Website
+# 🌌 Interstellar Movie Website
 
+A simple, responsive website dedicated to the epic sci-fi film **Interstellar**, built with **HTML**, **CSS**, and **JavaScript**.
 
-This is a website built using **HTML**, **CSS**, and **JavaScript** that allows users to explore movies and series. The site provides various filters to help users browse content based on categories like "Most Rated", "New Releases", and "Indian". It also includes pages for **Login**, **Contact**, and an interactive **Home Page** with an **image slider** that displays information about series, including their names, ratings, descriptions, and images.
+## 🚀 Live Demo
 
-## Features
+[Visit the website](https://6832f0c547913f2c171c8a94--tangerine-mousse-bce220.netlify.app/)  
 
-- **Home Page**: 
-  - **Image Slider** showcasing movie/series names, ratings, descriptions, and images.
-  - Filters for browsing movies and series by:
-    - Most Rated
-    - New Releases
-    - Indian 
-- **Contact Page**: Allows users to get in touch via a contact form.
-- **Watch Trailer**: Watch Trailer here.
+---
 
+## 📁 Pages Included
 
-## Technologies Used
+- **Home** – Overview and poster of the movie
+- **Story** – A breakdown of the movie’s plot and key themes
+- **Cast & Crew** – Details about the actors, director, composer, and crew
+- **About** – Info about the creator and the team behind this fan site
 
-- **HTML**
-- **CSS**
-- **JavaScript**
+---
+
+## 🛠️ Built With
+
+- HTML5
+- CSS3 (Flexbox & Responsive Design)
+- JavaScript (Vanilla)
+- [Unsplash](https://unsplash.com) for free images
+
+## 📄 License
+
+This project is for educational and personal use only. All rights to Interstellar and its media belong to their respective owners.
